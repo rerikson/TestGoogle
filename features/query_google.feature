@@ -8,7 +8,7 @@ Feature: query google
     This is the background   gsdgdsgsadgsd
 
     Given I am on the google search page
-    Given I am testing
+    Given I am testing   this
 
   @run_search
   Scenario: search for images
