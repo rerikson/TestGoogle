@@ -1,0 +1,5 @@
+gem 'capybara'
+gem 'selenium'
+gem 'selenium-webdriver'
+gem 'cucumber'
+gem 'gherkin'
