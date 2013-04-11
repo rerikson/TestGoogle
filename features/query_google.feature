@@ -5,10 +5,10 @@ Feature: query google
   This feature tests google search
 
   Background:
-    This is the background   gsdgdsgsadgsd
+    This is the background
 
     Given I am on the google search page
-    Given I am testing   this
+
 
   @run_search
   Scenario: search for images
